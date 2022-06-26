@@ -1,7 +1,7 @@
 # Libin Zhu's Homepage
 ## About me
 
-<img align = "left" src="head.png" width = "35%" height = "35%" style=' margin: 20px'>
+<img align = "left" src="head.png" width = "30%" height = "30%" style=' margin: 20px'>
 
 
 I am currently a Ph.D. candidate in Computer Science and Engineering at University of California, San Diego (UCSD). I am luckily adivised by [Dr. Mikhail Belkin](http://misha.belkin-wang.org/). 
@@ -10,7 +10,7 @@ I am interested in theoretical machine learning problems. Recently, I have focus
 
 
 
-#### Email:
+### Email:
 
 l5zhu [at] ucsd [dot] edu
 
