@@ -1,10 +1,34 @@
 type = "card"
 title = "Teaching"
-description = "Courses I have taught or assisted with."
 
 [[items]]
-title = "Example Course"
+title = "DSC 206 – Algorithms for Data Science, UCSD"
 subtitle = "Teaching Assistant"
-date = "2024"
-content = "Description of the course and responsibilities."
-tags = ["Undergraduate", "CS"]
+date = "Winter 2024"
+
+[[items]]
+title = "DSC 240 – Machine Learning, UCSD"
+subtitle = "Teaching Assistant"
+date = "Fall 2023"
+
+[[items]]
+title = "DSC 291 – Topics in Mathematics of Deep Learning, UCSD"
+subtitle = "Teaching Assistant"
+date = "Spring 2023"
+
+[[items]]
+title = "DSC 212 – Probability and Statistics for Data Science, UCSD"
+subtitle = "Teaching Assistant"
+date = "Winter 2022"
+
+[[items]]
+title = "DSC 291 – Topics in Mathematics of Deep Learning, UCSD"
+subtitle = "Teaching Assistant"
+date = "Spring 2022"
+
+[[items]]
+title = "DSC 140A – Probabilistic Modeling and Machine Learning, UCSD"
+subtitle = "Teaching Assistant"
+date = "Winter 2022"
+
+

@@ -51,6 +51,11 @@ href = "/services"
 
 [[navigation]]
 title = "CV"
+type = "link"
+href = "/cv.pdf"
+
+[[navigation]]
+title = "Miscellaneous"
 type = "page"
-target = "cv"
-href = "/cv"
+target = "miscellaneous"
+href = "/miscellaneous"

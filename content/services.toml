@@ -1,9 +1,43 @@
-type = "card"
+type = "text"
 title = "Services"
-description = "Professional services and community involvement."
+source = "services.md"
+
+[[items]]
+title = "Organizer"
+subtitle = "IFDS Weekly Seminar, University of Washington"
+date = "2024 Fall - 2025 Winter"
+
+[[items]]
+title = "Organizer"
+subtitle = "MoDL Collaboration Workshop"
+date = "2024"
 
 [[items]]
 title = "Reviewer"
-subtitle = "Journal Name"
+subtitle = "UAI"
+date = "2021"
+
+[[items]]
+title = "Reviewer"
+subtitle = "ICML, UAI, NeurIPS"
+date = "2022"
+
+[[items]]
+title = "Reviewer"
+subtitle = "ICML, UAI, NeurIPS"
+date = "2023"
+
+[[items]]
+title = "Reviewer"
+subtitle = "ICML, ICLR, NeurIPS"
 date = "2024"
-content = "Reviewed papers for..."
+
+[[items]]
+title = "Reviewer"
+subtitle = "ICML"
+date = "2025"
+
+[[items]]
+title = "Reviewer"
+subtitle = "JMLR, SIODS"
+date = ""
