@@ -6,20 +6,22 @@
 /* Default to light theme colors - no system preference detection */
 :root,
 .light {
-  /* Light theme colors */
-  --background: #fefffe;
-  --foreground: #0f172a;
-  
-  /* Brand colors - Deep Navy & Gold */
-  --primary: #1e293b;
-  --primary-light: #334155;
-  --primary-dark: #0f172a;
-  --accent: #d4a562;
-  --accent-light: #e4b976;
-  --accent-dark: #b8914d;
-  
-  /* Neutral colors */
-  --neutral-50: #f8fafc;
+  /* Light theme colors — Cool paper & ink */
+  --background: #fdfefe;          /* cool, neutral white */
+  --foreground: #0b1220;          /* ink-black */
+
+  /* Brand colors — Deep academic navy */
+  --primary: #14233b;
+  --primary-light: #1f3656;
+  --primary-dark: #0b1220;
+
+  /* Accent colors — Scholarly blue (cool, desaturated) */
+  --accent: #3f6ea8;              /* refined steel blue */
+  --accent-light: #6a92c2;        /* links / hover */
+  --accent-dark: #2b4f7a;         /* active */
+
+  /* Neutral colors — cool grays (no yellow bias) */
+  --neutral-50:  #f8fafc;
   --neutral-100: #f1f5f9;
   --neutral-200: #e2e8f0;
   --neutral-300: #cbd5e1;
@@ -28,19 +30,24 @@
   --neutral-600: #475569;
   --neutral-700: #334155;
   --neutral-800: #1e293b;
-  --neutral-900: #0f172a;
-  
-  /* Semantic colors */
-  --success: #10b981;
-  --warning: #f59e0b;
-  --error: #ef4444;
-  --info: #3b82f6;
-  
-  /* Glass effect */
-  --glass-bg: rgba(255, 255, 255, 0.1);
-  --glass-border: rgba(255, 255, 255, 0.2);
-  --glass-shadow: rgba(0, 0, 0, 0.1);
+  --neutral-900: #0b1220;
+
+  /* Semantic colors — aligned with cool palette */
+  --success: #238b7b;
+  --warning: #c0841d;
+  --error:   #c2413b;
+  --info:    #3f6ea8;
+
+  /* Glass effect — clean, cool */
+  --glass-bg: rgba(255, 255, 255, 0.70);
+  --glass-border: rgba(20, 35, 59, 0.14);
+  --glass-shadow: rgba(11, 18, 32, 0.12);
 }
+
+
+
+
+
 
 @theme inline {
   /* Colors */
@@ -239,3 +246,4 @@ body {
   /* Soften card borders in dark mode only */
   border-color: rgba(148, 163, 184, 0.24);
 }
+

@@ -4,4 +4,6 @@ I am currently an [Institute for Foundations of Data Science](https://ifds.info/
 I am broadly interested in the **optimization** and **mathematical foundations** of machine learning.  My core research interest is in establishing the mathematical foundations for modern deep learning and designing theoretically
 grounded algorithms that advance existing methods.  In recent work, we showed that kernel methods are capable of implementing **feature** and **hierarchical learning** ([paper](https://arxiv.org/abs/2505.08277)).
 
+**Email**: libinzhu *at* uw *dot* edu
+
 > **🚀 I am currently on the job market for full‑time positions.**

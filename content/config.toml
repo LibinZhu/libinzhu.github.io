@@ -1,6 +1,7 @@
 [site]
 title = "Libin Zhu"
 description = "Personal website of Libin Zhu"
+favicon = "/icon.svg"
 last_updated = "Dec 15, 2025"
 
 [author]

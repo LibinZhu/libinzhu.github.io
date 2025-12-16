@@ -14,14 +14,11 @@ import {
 
 import { Metadata } from 'next';
 
-export function generateStaticParams() {
-    const config = getConfig();
-    return config.navigation
-        .filter(nav => nav.type === 'page' && nav.target !== 'about') // 'about' is handled by root page
-        .map(nav => ({
-            slug: nav.target,
-        }));
-}
+export function generateStaticParams() 
+    { const config = getConfig(); 
+        return config.navigation .filter(nav => nav.type === 'page' && nav.target !== 'about') .map(nav => ({ slug: nav.target,      
+        })); 
+    }
 
 export async function generateMetadata({ params }: { params: Promise<{ slug: string }> }): Promise<Metadata> {
     const { slug } = await params;
