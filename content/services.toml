@@ -34,10 +34,10 @@ date = "2024"
 
 [[items]]
 title = "Reviewer"
-subtitle = "ICML"
+subtitle = "ICML, NeurIPS"
 date = "2025"
 
 [[items]]
 title = "Reviewer"
-subtitle = "JMLR, SIODS"
+subtitle = "JMLR, SIMODS, FoCM"
 date = ""

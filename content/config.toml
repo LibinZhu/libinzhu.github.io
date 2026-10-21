@@ -2,19 +2,19 @@
 title = "Libin Zhu"
 description = "Personal website of Libin Zhu"
 favicon = "/icon.svg"
-last_updated = "Dec 15, 2025"
+last_updated = "Oct 20, 2026"
 
 [author]
 name = "Libin Zhu"
-title = "Postdoc"
-institution = "University of Washington"
+title = "AI Scientist"
+institution = "WorldQuant"
 avatar = "/bio.JPG"
 
 [social]
 # Contact information (leave blank or delete to hide)
 
-email = "libinzhu@uw.edu"
-location = "Seattle, WA"
+email = "math.libinz@gmail.com"
+location = "WPB, FL"
 google_scholar = "https://scholar.google.com/citations?user=hyTGiUcAAAAJ&hl=en&oi=ao"
 github = "https://github.com/zhm1995"
 linkedin = "https://www.linkedin.com/in/libin-zhu-3a34291b5"
@@ -49,11 +49,6 @@ title = "Services"
 type = "page"
 target = "services"
 href = "/services"
-
-[[navigation]]
-title = "CV"
-type = "link"
-href = "/cv.pdf"
 
 [[navigation]]
 title = "Miscellaneous"

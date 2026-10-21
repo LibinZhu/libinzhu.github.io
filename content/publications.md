@@ -1,5 +1,8 @@
 ## Feature learning
 
+[Average Gradient Outer Product in kernel regression provably recovers the central subspace for multi-index models](https://arxiv.org/pdf/2605.15082)   
+L. Zhu,&nbsp;D. Davis,&nbsp;D. Drusvyatskiy,&nbsp;and&nbsp;M. Fazel.&nbsp;Preprinted.
+
 [Iteratively reweighted kernel machines efficiently learn sparse functions](https://arxiv.org/abs/2505.08277)   
 L. Zhu,&nbsp;D. Davis,&nbsp;D. Drusvyatskiy,&nbsp;and&nbsp;M. Fazel.&nbsp;Preprinted.
 
